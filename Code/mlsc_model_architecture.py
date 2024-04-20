@@ -53,7 +53,7 @@ def build_model(X_train_reshaped, y_train):
     output_layer = Dense(4, activation='sigmoid', name="output_layer")(concatenated_layers)
 
     # Create the model
-    model = tf.keras.Model(inputs=[input_layer, input_label_1d, input_label_3d, input_label_7d, input_label_10d], outputs=output_layer, name="custom_transformer_model")
+    model = tf.keras.Model(inputs=[input_layer, input_label_1d, input_label_3d, input_label_7d, input_label_10d], outputs=output_layer, name="MLSC_model")
 
     # Compile the model
     model.compile(optimizer=Adam(), loss='binary_crossentropy', metrics=['accuracy'])
