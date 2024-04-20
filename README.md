@@ -5,6 +5,7 @@ The "Multi-Label Stock Classifier" is a reproducible work aimed at classifying p
 
 Authors:
 Ibanga Kpereobong Friday, Sarada Prassana Pati, Debahuti Mishra
+
 Title: MLSC: A multi-label stock classifier for multi-horizon stock trend prediction
 Journal: Knowledge and Information Systems
 DOI: 
