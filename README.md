@@ -8,6 +8,6 @@ Ibanga Kpereobong Friday, Sarada Prassana Pati, Debahuti Mishra
 
 Title: MLSC: A multi-label stock classifier for multi-horizon stock trend prediction
 
-Journal: Knowledge and Information Systems
+Journal: Computational Economics
 
 DOI: 
